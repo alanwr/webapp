@@ -28,7 +28,7 @@
 # st.sidebar.title("Período")
 # data_inicio = st.sidebar.date_input("Data início")
 # data_fim = st.sidebar.date_input("Data término")
-#
 
-streamlit run app.py & npx localtunnel --port 8501
+# streamlit run app.py & npx localtunnel --port 8501
+
 
